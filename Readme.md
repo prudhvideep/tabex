@@ -1,6 +1,8 @@
 # Tabex
 
-A cli tool for extraction tabular data from a URL.
+A cli tool for extracting tabular data from a URL.
+
+![Demo](demo.gif)
 
 ## Usage
 Please ensure you have `cargo` and the rust toolchain (`rustup`) installed.
